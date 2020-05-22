@@ -1,0 +1,21 @@
+<style scoped lang="less">
+</style>
+
+<template>
+  <div></div>
+</template>
+
+<script>
+
+const prefixCls = 'tz-'
+
+export default {
+  name: 'tz-',
+  props: {
+  },
+  computed: {
+    classes () {}
+  },
+  methods: {}
+}
+</script>

@@ -1,9 +1,10 @@
 {
   "name": "pkg-template",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "package目录文件脚手架",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "node ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +12,8 @@
     "template"
   ],
   "author": "zhang.tigerkin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
