@@ -1,0 +1,15 @@
+{
+  "name": "pkg-template",
+  "version": "0.0.0",
+  "description": "package目录文件脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pkg",
+    "template"
+  ],
+  "author": "zhang.tigerkin",
+  "license": "MIT"
+}
